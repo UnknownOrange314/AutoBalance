@@ -1,0 +1,22 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0" is_locked="false">
+    <option name="myName" value="Project Default" />
+    <option name="myLocal" value="false" />
+    <inspection_tool class="AbstractValueInTrait" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="ArraySizeCall" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="FieldAccessNotGuarded" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="InconsistentLanguageLevel" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="InstanceGuardedByStatic" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="LegacyStringFormatting" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="LocalCanBeFinal" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="REPORT_VARIABLES" value="true" />
+      <option name="REPORT_PARAMETERS" value="true" />
+    </inspection_tool>
+    <inspection_tool class="NonFinalFieldInImmutable" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="NonFinalGuard" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="RelativeImport" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="StaticGuardedByInstance" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="SuspiciousInferredType" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="UnknownGuard" enabled="true" level="WARNING" enabled_by_default="true" />
+  </profile>
+</component>
